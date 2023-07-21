@@ -22,7 +22,6 @@
            <div>
                @Html.LabelFor(model => model.Term)
                @Html.TextBoxFor(model => model.Term, new { htmlAttributes = new { @id = "termInput", @class = "form-control" } })
-               @Html.ValidationMessageFor(m => m.Term, " ", new { @class = "text-danger" })
            </div>
            <br/>
            <button formaction="/DadJoke/GetJokesBySearchTerm" type="submit">
