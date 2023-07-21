@@ -1,0 +1,7 @@
+2023-07-21 19:57:21.8665|DEBUG|DadJoke.Program|Starting host builder
+2023-07-21 19:57:25.4975|INFO|DadJoke.Services.DadJokeService|Random Joke Service invoked
+2023-07-21 19:57:30.9610|INFO|DadJoke.Services.DadJokeService|Joke by search term service invoked
+2023-07-21 19:57:39.2788|INFO|DadJoke.Services.DadJokeService|Joke by search term service invoked
+2023-07-21 20:06:46.2941|DEBUG|DadJoke.Program|Starting host builder
+2023-07-21 20:06:54.7125|INFO|DadJoke.Services.DadJokeService|Random Joke Service invoked
+2023-07-21 20:07:01.7596|INFO|DadJoke.Services.DadJokeService|Joke by search term service invoked

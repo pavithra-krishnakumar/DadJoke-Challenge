@@ -1,0 +1,67 @@
+﻿@model DadJokeModel
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the world of Dad Jokes!</h1>
+    <br />
+    <div class="form">
+        <form method="post">
+           <button formaction="/DadJoke/GetRandomJoke">
+               Random Joke
+           </button>
+       </form>
+       @if (Model != null)
+       {
+           @if (@Model.Joke?.Length > 0)
+           {
+               <b>@Model.Joke</b>
+           } 
+       }
+       <br/>
+       <br/>
+       <form method="post">
+           <div>
+               @Html.LabelFor(model => model.Term)
+               @Html.TextBoxFor(model => model.Term, new { htmlAttributes = new { @id = "termInput", @class = "form-control" } })
+               @Html.ValidationMessageFor(m => m.Term, " ", new { @class = "text-danger" })
+           </div>
+           <br/>
+           <button formaction="/DadJoke/GetJokesBySearchTerm" type="submit">
+               Go!
+           </button>
+
+       </form>
+    </div>
+    @if(@Model != null){
+
+        @if (@Model.ShortJokeList != null && Model.ShortJokeList.Count > 0)
+        {
+            <div><b>Short Jokes</b></div>
+            foreach (var i in @Model.ShortJokeList)
+            {
+                @i
+                <br />
+            }
+        }
+       
+        @if (@Model.MediumJokeList != null && Model.MediumJokeList.Count > 0)
+        {
+            <div><b>Medium Jokes</b></div>
+            foreach (var i in @Model.MediumJokeList)
+            {
+                @i
+                <br />
+            }
+        }
+        
+        @if (@Model.LongJokeList != null && Model.LongJokeList.Count > 0)
+        {
+            <div><b>Long Jokes</b></div>
+            foreach (var i in @Model.LongJokeList)
+            {
+                @i
+                <br />
+            }
+        }
+    }
+</div>
+

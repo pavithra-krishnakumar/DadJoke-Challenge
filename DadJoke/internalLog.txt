@@ -1,0 +1,136 @@
+2023-07-20 18:12:20.8273 Info Message Template Auto Format enabled
+2023-07-20 18:12:20.9232 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 18:12:20.9347 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2023-07-20 18:12:20.9347 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2023-07-20 18:12:20.9872 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 18:12:20.9872 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logfile
+2023-07-20 18:14:13.9699 Info Message Template Auto Format enabled
+2023-07-20 18:14:14.0459 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-20 18:14:14.0534 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2023-07-20 18:14:14.0534 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2023-07-20 18:14:14.1015 Info Validating config: TargetNames=logfile, ConfigItems=16, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 18:14:14.1015 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: logfile
+2023-07-20 18:28:11.9168 Info Message Template Auto Format enabled
+2023-07-20 18:28:12.0064 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 18:28:12.0064 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2023-07-20 18:28:12.0064 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2023-07-20 18:28:12.0571 Info Validating config: TargetNames=allfile, ConfigItems=16, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 18:28:12.0571 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2023-07-20 18:30:51.0549 Info Message Template Auto Format enabled
+2023-07-20 18:30:51.1596 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 18:30:51.1596 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2023-07-20 18:30:51.1596 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2023-07-20 18:30:51.2258 Info Validating config: TargetNames=allfile, ConfigItems=16, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 18:30:51.2258 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2023-07-20 18:32:21.8534 Info Message Template Auto Format enabled
+2023-07-20 18:32:21.9289 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 18:32:21.9289 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2023-07-20 18:32:21.9289 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2023-07-20 18:32:21.9850 Info Validating config: TargetNames=allfile, ConfigItems=16, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 18:32:21.9897 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2023-07-20 18:33:39.0795 Info Message Template Auto Format enabled
+2023-07-20 18:33:39.1568 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 18:33:39.2196 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 18:34:20.7234 Info Message Template Auto Format enabled
+2023-07-20 18:34:20.8004 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 18:34:20.8428 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 18:35:14.2269 Info Message Template Auto Format enabled
+2023-07-20 18:35:14.3145 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 18:35:14.3840 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 18:53:49.3041 Info Message Template Auto Format enabled
+2023-07-20 18:53:49.4296 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 18:53:49.5961 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 19:15:02.3565 Info Message Template Auto Format enabled
+2023-07-20 19:15:02.4528 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 19:15:02.5147 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 19:25:45.9533 Info Message Template Auto Format enabled
+2023-07-20 19:25:46.0356 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 19:25:46.0868 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 19:25:47.3747 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 19:32:49.9536 Info Message Template Auto Format enabled
+2023-07-20 19:32:50.0425 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 19:32:50.0934 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 20:21:13.0498 Info Message Template Auto Format enabled
+2023-07-20 20:21:13.1459 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 20:21:13.2041 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 20:23:01.7674 Info Message Template Auto Format enabled
+2023-07-20 20:23:01.8716 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 20:23:01.9280 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 20:25:29.1007 Info Message Template Auto Format enabled
+2023-07-20 20:25:29.1978 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 20:25:29.2483 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 20:27:19.0758 Info Message Template Auto Format enabled
+2023-07-20 20:27:19.1503 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 20:27:19.2029 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 20:31:25.2657 Info Message Template Auto Format enabled
+2023-07-20 20:31:25.4359 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 20:31:25.5258 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 20:34:36.9469 Info Message Template Auto Format enabled
+2023-07-20 20:34:37.0146 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 20:34:37.0579 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 20:36:00.3579 Info Message Template Auto Format enabled
+2023-07-20 20:36:00.4392 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 20:36:00.4823 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 20:40:26.9938 Info Message Template Auto Format enabled
+2023-07-20 20:40:27.0703 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 20:40:27.1199 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 20:40:48.6046 Info Message Template Auto Format enabled
+2023-07-20 20:40:48.6776 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 20:40:48.7252 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 21:30:12.3266 Info Message Template Auto Format enabled
+2023-07-20 21:30:12.4069 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 21:30:12.4542 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-20 22:06:44.9014 Info Message Template Auto Format enabled
+2023-07-20 22:06:45.0539 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-20 22:06:45.2309 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 15:50:30.4985 Info Message Template Auto Format enabled
+2023-07-21 15:50:30.5851 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 15:50:30.6501 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 16:04:25.7837 Info Message Template Auto Format enabled
+2023-07-21 16:04:25.8580 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 16:04:25.9046 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 16:21:22.9605 Info Message Template Auto Format enabled
+2023-07-21 16:21:23.0387 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 16:21:23.1450 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 16:30:00.7467 Info Message Template Auto Format enabled
+2023-07-21 16:30:00.8169 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 16:30:00.8640 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 17:03:56.6654 Info Message Template Auto Format enabled
+2023-07-21 17:03:56.7420 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 17:03:56.7919 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 17:42:15.6036 Info Message Template Auto Format enabled
+2023-07-21 17:42:15.6870 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 17:42:15.7378 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 17:51:39.2255 Info Message Template Auto Format enabled
+2023-07-21 17:51:39.3010 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 17:51:39.4086 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 17:53:51.1274 Info Message Template Auto Format enabled
+2023-07-21 17:53:51.2028 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 17:53:51.2491 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 17:56:59.1667 Info Message Template Auto Format enabled
+2023-07-21 17:56:59.2349 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 17:56:59.2827 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 19:32:17.7377 Info Message Template Auto Format enabled
+2023-07-21 19:32:17.8081 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 19:32:17.8520 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 19:34:55.7884 Info Message Template Auto Format enabled
+2023-07-21 19:34:55.8654 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 19:34:55.9172 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 19:38:36.7278 Info Message Template Auto Format enabled
+2023-07-21 19:38:36.7983 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 19:38:36.8407 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 19:39:15.8235 Info Message Template Auto Format enabled
+2023-07-21 19:39:15.8965 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 19:39:15.9410 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 19:43:01.9371 Info Message Template Auto Format enabled
+2023-07-21 19:43:02.0099 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 19:43:02.0573 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 19:43:49.2017 Info Message Template Auto Format enabled
+2023-07-21 19:43:49.2777 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 19:43:49.3222 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 19:57:21.7174 Info Message Template Auto Format enabled
+2023-07-21 19:57:21.7894 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 19:57:21.8356 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
+2023-07-21 20:06:45.7426 Info Message Template Auto Format enabled
+2023-07-21 20:06:46.0588 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-07-21 20:06:46.2417 Info Validating config: TargetNames=allfile, ConfigItems=14, FilePath=C:\Users\PavithraKrishnakumar\source\repos\DadJoke\DadJoke\bin\Debug\netcoreapp3.1\nlog.config
